@@ -41,6 +41,11 @@ ESP32 + Raspberry Pi sensor fusion with CNN-based occupancy prediction (~98.85% 
 
 [View Capstone Repo](https://github.com/mouratony/CS426-RealTime-DigitalTwin)
 
+### OptionAI — Options Trading Prediction CLI
+Python CLI leveraging Gemini LLM to predict stock option trades (calls/puts) based on market sentiment, historical data, economic indicators, earnings dates, fundamentals, Greeks, and option chains.  
+Built a data pipeline integrating Alpha Vantage, FRED, and yfinance APIs to populate a structured JSON schema, feeding tailored prompts to Gemini for trade recommendations based on user buying power and risk tolerance. Includes a Flask API server for serving predictions and rendering results, with modular architecture for extensibility.
+
+[View OptionAI Repo](https://github.com/mouratony/OptionsAI_DayTrade)
 
   <br>
 
@@ -48,7 +53,7 @@ ESP32 + Raspberry Pi sensor fusion with CNN-based occupancy prediction (~98.85% 
 
 ## 🛠️ Tech Stack
 
-Python · TypeScript · JavaScript · React · C++ · C · FastAPI · TensorFlow · Keras · PyTorch · Scikit-learn · Next.js · HTML/CSS · SQL · PostgreSQL · Supabase · Firebase · AWS S3 · Drizzle ORM · Zod · TanStack Query · RESTful APIs · CNN Models · PyWake · Git · GitHub · Docker · Unix/Linux · SLURM/HPC · Jupyter · ESP32 · Raspberry Pi · Arduino · BLE · PCB Design · KiCad · Blynk · Unity · HoloLens 2 · MRTK · Playwright · Postman · Vitest · ESLint · Jira · Trello · Java · Swift · MATLAB · VHDL · MicroPython · MicroPython
+Python · TypeScript · JavaScript · React · C++ · C · FastAPI · Flask · Gemini API · TensorFlow · PyTorch · Scikit-learn · Next.js · HTML/CSS · SQL · PostgreSQL · Supabase · Firebase · AWS S3 · Drizzle ORM · Zod · TanStack Query · RESTful APIs · API Integration · CLI Development · Financial Data Pipelines · Prompt Engineering · Environment Variables · Conda · Shell Scripting · Modular Architecture · Market Data Analysis · Options Analytics · CNN Models · PyWake · Git · GitHub · Docker · Unix/Linux · SLURM/HPC · Jupyter · ESP32 · Raspberry Pi · Arduino · BLE · PCB Design · KiCad · Blynk · Unity · HoloLens 2 · MRTK · Playwright · Postman · Vitest · ESLint · Jira · Trello · Java · Swift · MATLAB · VHDL · MicroPython
 
 ---
 
