@@ -53,7 +53,32 @@ Built a data pipeline integrating Alpha Vantage, FRED, and yfinance APIs to popu
 
 ## 🛠️ Tech Stack
 
-Python · TypeScript · JavaScript · React · C++ · C · FastAPI · Flask · Gemini API · TensorFlow · PyTorch · Scikit-learn · Next.js · HTML/CSS · SQL · PostgreSQL · Supabase · Firebase · AWS S3 · Drizzle ORM · Zod · TanStack Query · RESTful APIs · API Integration · CLI Development · Financial Data Pipelines · Prompt Engineering · Environment Variables · Conda · Shell Scripting · Modular Architecture · Market Data Analysis · Options Analytics · CNN Models · PyWake · Git · GitHub · Docker · Unix/Linux · SLURM/HPC · Jupyter · ESP32 · Raspberry Pi · Arduino · BLE · PCB Design · KiCad · Blynk · Unity · HoloLens 2 · MRTK · Playwright · Postman · Vitest · ESLint · Jira · Trello · Java · Swift · MATLAB · VHDL · MicroPython
+**Languages**  
+Python · TypeScript · JavaScript · C++ · C · Java · Swift · SQL · MATLAB · VHDL · MicroPython · HTML/CSS
+
+**AI & Machine Learning**  
+TensorFlow · PyTorch · Scikit-learn · CNN Models · Gemini API · Prompt Engineering · PyWake
+
+**Backend & APIs**  
+FastAPI · Flask · RESTful APIs · CLI Development · Shell Scripting
+
+**Frontend & Web**  
+React · Next.js · TanStack Query · Zod · Drizzle ORM
+
+**Databases & Cloud**  
+PostgreSQL · Supabase · Firebase · AWS S3
+
+**Data & Financial Analytics**  
+yfinance · Alpha Vantage · FRED · Financial Data Pipelines · Options Analytics · Market Data Analysis
+
+**DevOps & Tooling**  
+Git · GitHub · Docker · Unix/Linux · SLURM/HPC · Conda · Jupyter · Postman · Playwright · Vitest · ESLint · Jira · Trello
+
+**Embedded & Hardware**  
+ESP32 · Raspberry Pi · Arduino · MicroPython · BLE · PCB Design · KiCad · Blynk
+
+**XR & Visualization**  
+Unity · HoloLens 2 · MRTK
 
 ---
 
